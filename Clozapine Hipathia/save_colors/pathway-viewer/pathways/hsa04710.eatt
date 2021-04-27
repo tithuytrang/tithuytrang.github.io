@@ -1,0 +1,19 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsa04710-15-11	P-hsa04710-16-11	P-hsa04710-18-7	P-hsa04710-20-7	P-hsa04710-21-7	P-hsa04710-10 8 9-11	P-hsa04710-10 8 9-7	P-hsa04710-10 8 9-23	P-hsa04710-10 8 9-5	P-hsa04710-12 13-7
+N-hsa04710-15_inhibition_N-hsa04710-11	DOWN	darkgrey	0.285714285714286	0.285714285714286	inhibited	1	0	0	0	0	0	0	0	0	0
+N-hsa04710-16_activation_N-hsa04710-11	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	1	0	0	0	0	0	0	0	0
+N-hsa04710-18_activation_N-hsa04710-7	UP	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	1	0	0	0	0	0	0	0
+N-hsa04710-17_activation_N-hsa04710-7	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	1	1	0	0	0	0	0
+N-hsa04710-20_activation_N-hsa04710-17	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	1	0	0	0	0	0	0
+N-hsa04710-21_activation_N-hsa04710-17	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	1	0	0	0	0	0
+N-hsa04710-6_inhibition_N-hsa04710-3 4	DOWN	darkgrey	0.73015873015873	0.73015873015873	inhibited	0	0	0	0	0	1	1	1	1	0
+N-hsa04710-3 4_activation_N-hsa04710-6	DOWN	darkgrey	0.73015873015873	0.73015873015873	directed	0	0	0	0	0	1	1	1	1	0
+N-hsa04710-3 4_activation_N-hsa04710-11	DOWN	darkgrey	0.73015873015873	0.73015873015873	directed	0	0	0	0	0	1	0	0	0	0
+N-hsa04710-10 8 9_inhibition_N-hsa04710-3 4	DOWN	darkgrey	0.73015873015873	0.73015873015873	inhibited	0	0	0	0	0	1	1	1	1	0
+N-hsa04710-3 4_activation_N-hsa04710-7	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	0	0	0	0	1	0	0	0
+N-hsa04710-3 4_activation_N-hsa04710-23	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	0	0	0	0	0	1	0	0
+N-hsa04710-3 4_activation_N-hsa04710-5	DOWN	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0
+N-hsa04710-12 13_inhibition_N-hsa04710-7	DOWN	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	0	1
+N-hsa04710-11_activation_N-hsa04710-11_func	DOWN	darkgrey	N-hsa04710-11_activation_N-hsa04710-11_func	DOWN	directed	1	1	0	0	0	1	0	0	0	0
+N-hsa04710-7_activation_N-hsa04710-7_func	DOWN	darkgrey	N-hsa04710-7_activation_N-hsa04710-7_func	DOWN	directed	0	0	1	1	1	0	1	0	0	1
+N-hsa04710-23_activation_N-hsa04710-23_func	DOWN	darkgrey	N-hsa04710-23_activation_N-hsa04710-23_func	DOWN	directed	0	0	0	0	0	0	0	1	0	0
+N-hsa04710-5_activation_N-hsa04710-5_func	DOWN	darkgrey	N-hsa04710-5_activation_N-hsa04710-5_func	DOWN	directed	0	0	0	0	0	0	0	0	1	0
