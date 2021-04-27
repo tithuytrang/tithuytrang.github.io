@@ -1,0 +1,35 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsa05140-18-21	P-hsa05140-18-26	P-hsa05140-23-26	P-hsa05140-28-26	P-hsa05140-29-26	P-hsa05140-33-37	P-hsa05140-33-55	P-hsa05140-33-16	P-hsa05140-56-37	P-hsa05140-56-55	P-hsa05140-56-41 57	P-hsa05140-2 63-37	P-hsa05140-2 63-55	P-hsa05140-2 63-41 57	P-hsa05140-2 63-62	P-hsa05140-2 63-43	P-hsa05140-3 11-62	P-hsa05140-10 12-62
+N-hsa05140-18_activation_N-hsa05140-19	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-19_activation_N-hsa05140-48	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-20_activation_N-hsa05140-21	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-48_activation_N-hsa05140-49	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-49_activation_N-hsa05140-50 51	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-50 51_activation_N-hsa05140-20	DOWN	darkgrey	0.0634920634920635	0.0634920634920635	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-18_activation_N-hsa05140-25	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-25_activation.up_N-hsa05140-26	UP	#e31a1c	0.0317460317460317	0.0317460317460317	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-25_activation_N-hsa05140-26	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-23_inhibition_N-hsa05140-25	DOWN	darkgrey	1	1	inhibited	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-28_inhibition_N-hsa05140-25	DOWN	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-29_inhibition.up_N-hsa05140-25	UP	#e31a1c	0.0317460317460317	0.0317460317460317	inhibited	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-33_inhibition_N-hsa05140-36	DOWN	darkgrey	0.904761904761905	0.904761904761905	inhibited	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-36_activation_N-hsa05140-37	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0
+N-hsa05140-36_activation_N-hsa05140-55	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0
+N-hsa05140-33_inhibition_N-hsa05140-15 52 53	UP	darkgrey	0.555555555555556	0.555555555555556	inhibited	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-15 52 53_activation_N-hsa05140-16	UP	darkgrey	0.555555555555556	0.555555555555556	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-4_activation_N-hsa05140-36	DOWN	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0
+N-hsa05140-56_inhibition_N-hsa05140-4	DOWN	darkgrey	0.285714285714286	0.285714285714286	inhibited	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+N-hsa05140-56_inhibition_N-hsa05140-36	DOWN	darkgrey	0.285714285714286	0.285714285714286	inhibited	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+N-hsa05140-4_activation_N-hsa05140-58 59 6	UP	darkgrey	0.73015873015873	0.73015873015873	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+N-hsa05140-58 59 6_activation_N-hsa05140-41 57	UP	darkgrey	0.73015873015873	0.73015873015873	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+N-hsa05140-2 63_activation_N-hsa05140-4	DOWN	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+N-hsa05140-60_activation_N-hsa05140-62	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1
+N-hsa05140-2 63_activation_N-hsa05140-60	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+N-hsa05140-2 63_activation_N-hsa05140-43	DOWN	darkgrey	0.904761904761905	0.904761904761905	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsa05140-3 11_activation_N-hsa05140-60	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsa05140-10 12_activation_N-hsa05140-60	UP	darkgrey	0.285714285714286	0.285714285714286	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+N-hsa05140-21_activation_N-hsa05140-21_func	DOWN	darkgrey	N-hsa05140-21_activation_N-hsa05140-21_func	DOWN	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsa05140-37_activation_N-hsa05140-37_func	DOWN	darkgrey	N-hsa05140-37_activation_N-hsa05140-37_func	DOWN	directed	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0
+N-hsa05140-55_activation_N-hsa05140-55_func	DOWN	darkgrey	N-hsa05140-55_activation_N-hsa05140-55_func	DOWN	directed	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0
+N-hsa05140-41 57_activation_N-hsa05140-41 57_func	DOWN	darkgrey	N-hsa05140-41 57_activation_N-hsa05140-41 57_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+N-hsa05140-43_activation_N-hsa05140-43_func	DOWN	darkgrey	N-hsa05140-43_activation_N-hsa05140-43_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsa05140-16_activation_N-hsa05140-16_func	DOWN	darkgrey	N-hsa05140-16_activation_N-hsa05140-16_func	DOWN	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
